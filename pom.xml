@@ -214,7 +214,7 @@
         <jolokia.version>1.2.3</jolokia.version>
         <jgroups.version>3.4.4.Final</jgroups.version>
         <json4s.version>3.2.4_1</json4s.version>
-        <junit.version>4.11</junit.version>
+        <junit.version>4.13.1</junit.version>
         <karaf.version>2.4.0</karaf.version>
         <libvirt-bundle.version>1.1</libvirt-bundle.version>
         <libvirt.version>0.4.7</libvirt.version>
